@@ -1,0 +1,294 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}    
+body{
+    overflow-x: hidden;
+}
+.nazanie{
+    display: flex;
+    margin: 0 auto;
+    max-width:  1920px;
+    width: 100%;
+
+    border: 1px solid #fff;
+    box-shadow: 0 0 20px #555;
+}
+.nazanie-img{
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.blok1{
+    display: flex;
+  
+}
+.huita{
+height: 55px;
+width: 55px;
+margin-top: 34px;
+margin-bottom: 34px;
+}
+.huina{
+    height: 50px;
+    width: 50px;
+    margin-top: 34px;
+    margin-bottom: 34px;
+margin-right: 150px;
+margin-left: 20px;
+}
+.bykv ul{
+    
+    list-style: none;
+    display: inline-flex;
+ margin-top: 26px;
+ margin-bottom: 26px;
+    justify-content: space-between;
+}
+.namber{
+    color:#3780C3 ;
+    font-style:normal;
+    margin-top: 19.30px;
+    margin-left: 5px;
+}
+.nazanie-text{
+    display: flex;
+    margin-top: 1px;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-size: 24px;
+    color: #2E4555;
+    margin-top: 48px;
+    margin-bottom: 48px;
+    margin-right: 95px
+}
+
+.nazanie-imgVO{
+    margin-left: 580px;
+    display: flex;
+    
+}
+
+/*--shapochka*/
+
+.container{
+    display: flex;
+    margin: 0 auto;
+    max-width:  1920px;
+    width: 100%;
+
+    
+}
+.menu ul{
+    list-style: none;
+    display: flex;
+    
+}
+.menu{
+    margin-left: 70px;
+    margin-top: 23px;
+    margin-right: 150px;
+}
+.menu-navig{
+   margin-left: 130px;
+   
+   
+    
+}
+.menu-navig a{
+    text-decoration: none;
+    
+    font-family: 'Raleway', sans-serif;
+font-weight: 700;
+font-size: 24px;
+color: #2E4555;
+}
+
+/*названия для всякой */
+.osnova{
+  
+}
+.everthing{
+    margin-top: 90px;
+    margin-left: 150px;
+    display: flex;
+    flex-direction: column;
+}
+
+.titleuwu{
+    width: 544px;
+    font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 48px;
+/* or 100% */
+
+display: flex;
+align-items: center;
+
+color: #2E4555;
+}
+.fullimg{
+    margin-top: 34px;
+    width: 1620px;
+height: 790px;
+border-radius: 65px;
+    background-image: url(sniperscoutmedic/loshadochka.png);
+}
+.descriptionsidk{
+    margin-top: 100px;
+    margin-left: 137px;
+    display: flex;
+    flex-direction: column;
+}
+.first{
+    display: flex;
+    width: 1350px;
+height: 431px;
+}
+.second{
+    margin-top: 40px;
+    display: flex;
+    height: 431px;
+    width: 1505px;
+}
+.titleidk{
+    width: 624px;
+    height: 272px;
+    margin-top: 79px;
+    margin-left: 157px;
+    font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-size: 24px;
+line-height: 33px;
+
+/* текст */
+
+color: #2E4555;
+}
+.titlegirly{
+    width: 800px;
+    
+height: 431px;
+    margin-left: 157px;
+    
+    font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-size: 24px;
+line-height: 33px;
+display: flex;
+align-items: center;
+
+/* текст */
+
+color: #2E4555;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*названия для всякой */
+
+.footer{
+    width: 1920px;
+height: 439px;
+background: #2D64A1;
+margin-top: 207px;
+}
+.logotip{
+    margin-top: 40px;
+    margin-left: 150px;
+}
+.container1{
+    margin-top: 150px;
+}
+.container1 li{
+    list-style-type: none;
+}
+.container1 a{
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 70px;
+/* or 292% */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+.footer-menu{
+    
+    display: flex;
+    flex-direction:row; 
+}
+.manu-one{
+    list-style: none;
+    margin-top: 40px;
+    margin-left: 157px;
+    font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 70px;
+color: #FFFFFF;
+}
+.manu-two{
+    list-style: none;
+    margin-top: 40px;
+    margin-left: 121px;
+    font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 70px;
+color: #FFFFFF;
+}
+.footer-text{
+    margin-top: -20px;
+}
+.manu-three{
+    list-style: none;
+    margin-top: 40px;
+    margin-left: 121px;
+    font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 70px;
+color: #FFFFFF;
+}
+.manu-four{
+    list-style: none;
+    margin-top: 40px;
+    margin-left: 121px;
+    display: flex;
+    
+}
+.footer-img{
+    margin-left: 20px;
+}
+/*AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAдаптив*/
+/*AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAдаптив*/
+
+@media(max-width:412px)
+{
+}

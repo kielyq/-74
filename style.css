@@ -1,0 +1,1010 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}    
+body{
+    overflow-x: hidden;
+}
+.nazanie{
+    display: flex;
+    margin: 0 auto;
+    max-width:  1920px;
+    width: 100%;
+
+    border: 1px solid #fff;
+    box-shadow: 0 0 20px #555;
+}
+.nazanie-img{
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.blok1{
+    display: flex;
+  
+}
+.huita{
+height: 55px;
+width: 55px;
+margin-top: 34px;
+margin-bottom: 34px;
+}
+.huina{
+    height: 50px;
+    width: 50px;
+    margin-top: 34px;
+    margin-bottom: 34px;
+margin-right: 150px;
+margin-left: 20px;
+}
+.bykv ul{
+    
+    list-style: none;
+    display: inline-flex;
+ margin-top: 26px;
+ margin-bottom: 26px;
+    justify-content: space-between;
+}
+.namber{
+    color:#3780C3 ;
+    font-style:normal;
+    margin-top: 19.30px;
+    margin-left: 5px;
+}
+.nazanie-text{
+    display: flex;
+    margin-top: 1px;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-size: 24px;
+    color: #2E4555;
+    margin-top: 48px;
+    margin-bottom: 48px;
+    margin-right: 95px
+}
+
+.nazanie-imgVO{
+    margin-left: 580px;
+    display: flex;
+    
+}
+
+/*--shapochka*/
+
+.container{
+    display: flex;
+    margin: 0 auto;
+    max-width:  1920px;
+    width: 100%;
+
+    
+}
+.menu ul{
+    list-style: none;
+    display: flex;
+    
+}
+.menu{
+    margin-left: 70px;
+    margin-top: 23px;
+    margin-right: 150px;
+}
+.menu-navig{
+   margin-left: 130px;
+   
+   
+    
+}
+.menu-navig a{
+    text-decoration: none;
+    
+    font-family: 'Raleway', sans-serif;
+font-weight: 700;
+font-size: 24px;
+color: #fff;
+}
+.kartinachkanomeradin{
+    margin: 0 auto;
+    max-width:  1920px;
+    height: 1230px;
+    width: 100%;
+    background-image: url(img/Group\ 78.png);
+}
+
+/*названия для всякой */
+.maintitles{
+    margin-top: 290px;
+    margin-left: 400px;
+}
+.title{
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 128px;
+    line-height: 48px;
+    /* or 38% */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+    
+}
+.nextitileabitlittle{
+    font-family: 'Raleway', sans-serif;
+    margin-top:60px;
+font-style: normal;
+font-weight: 200;
+font-size: 40px;
+line-height: 48px;
+/* identical to box height, or 120% */
+margin-left: 300px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+/*названия для всякой */
+.buton{
+    transition: 0.7s;
+width: 323px;
+height: 65px;
+background: #E6641B;
+border-radius: 65px;
+font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+align-items: center;
+text-align: center;
+color: #FFFFFF;
+margin-left: 400px;
+margin-top: 54px;
+border-color: #E6641B;
+}
+.buton:hover{
+    transition: 0.7s;
+    cursor: pointer;
+   background-color: #FADF55;
+   border-color:#FADF55;
+   color: #2E4555;
+}
+/*CNBKB IFGRB B DCZRJQ LHEUJQ [THYB*/
+
+.fonidk{
+    width: 1620px;
+height: 280px;
+background: rgba(94, 191, 197, 0.4);
+box-shadow: 0px 10px 20px rgba(46, 69, 85, 0.1);
+border-radius: 60px;
+margin-left: 150px;
+display:flex;
+}
+
+
+.tortueparts{
+    width: 1620px;
+    height: 234px;
+    margin-left: 40px;
+    margin-top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.titleoffrom{
+    margin-left: 20px;
+    margin-bottom: 5px;
+    width: 92px;
+height: 33px;
+font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+/* identical to box height */
+
+align-items: center;
+
+/* текст */
+
+color: #2E4555;
+}
+
+/*sdfsdfsdfsdfdsfsdsfdsdfsdf ОТКУДА ОТКУДА ОТКУДА*/
+
+
+.conainerr{
+    display: flex;
+    margin: 0 auto;
+    max-width:  1920px;
+    width: 100%;
+    margin-left: 150px;
+}
+.colena{
+    margin-top: 10px;
+    width: 391px;
+border-radius: 30px;
+display: flex;
+justify-content: center;
+align-items: center;
+background: #FFFFFF;
+box-shadow: 0px 20px 20px rgba(46, 69, 85, 0.1);
+}
+.colena #dycalendar{
+width: 100%;
+padding: 20px;
+}
+#dycalendar table{
+    width: 100%;
+    margin-top: 20px;
+}
+#dycalendar table td{
+    font-weight: 700;
+    color: #2E4555;
+    padding: 10px;
+}
+#wrap
+{
+    width: 100%;
+    height: 52px;
+    margin: 0;
+    z-index: 99;
+    position: relative;
+
+}
+.navbar{
+    height: 52px;
+    padding: 0;
+    margin: 0;
+    position:absolute;
+}
+.qwq{
+    border-radius: 65px;
+}
+.bordur{
+    border-radius: 65px;
+}
+.navbar li{
+    width: 487px;
+height: 60px;
+    float: left;
+    text-align: center;
+  list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background: #FFFFFF;
+box-shadow: 0px 10px 20px rgba(46, 69, 85, 0.1);
+
+}
+.navbar a{
+    padding: 18px 0;
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+display: flex;
+margin-left: 30px;
+    color: #2E4555;
+    display: block;
+}
+
+.navbar li ul{
+    display: none;
+    
+    margin: 0;
+    padding: 0;
+}
+.navbar li:hover ul{
+    display: block;
+}
+.navbar li ul li{
+    
+    background-color:#FFFFFF;
+    text-align: center;
+}
+
+.navbar li ul li a:hover{
+    background-color: rgb(245, 244, 244);
+
+}
+
+/*НАВИГАЦИЯ ДВА ДЛЯ КУДА*/
+.navbar2 li{
+    width:663px;
+height: 60px;
+    float: left;
+  /*  text-align: center;*/
+  list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background: #FFFFFF;
+box-shadow: 0px 10px 20px rgba(46, 69, 85, 0.1);
+
+}
+
+.navbar2 a{
+    padding: 18px 0;
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+display: flex;
+margin-left: 30px;
+    color: #2E4555;
+    display: block;
+}
+
+.navbar2 li ul{
+    display: none;
+    
+    margin: 0;
+    padding: 0;
+}
+.navbar2 li:hover ul{
+    display: block;
+}
+.navbar2 li ul li{
+    
+    background-color:#FFFFFF;
+    text-align: center;
+}
+
+.navbar2 li ul li a:hover{
+    background-color: rgb(245, 244, 244);
+
+}
+
+
+
+
+/*НАВИГАЦИЯ ДВА ДЛЯ КУДА*/
+
+
+
+
+/*Третий нав, дата, календарь типа*/
+
+.navbardate li{
+    width: 350px;
+height: 60px;
+    float: left;
+    text-align: center;
+  list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background: #FFFFFF;
+box-shadow: 0px 10px 20px rgba(46, 69, 85, 0.1);
+
+}
+.navbardate a{
+    padding: 18px 0;
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+display: flex;
+margin-left: 30px;
+    color: #2E4555;
+    display: block;
+}
+
+.navbardate li ul{
+    display: none;
+    
+    margin: 0;
+    padding: 0;
+}
+.navbardate li:hover ul{
+    display: block;
+}
+.navbardate li ul li{
+    
+    background-color:#FFFFFF;
+    text-align: center;
+}
+
+.navbardate li ul li a:hover{
+    background-color: rgb(245, 244, 244);
+
+}
+
+.navbardate{
+    height: 52px;
+    padding: 0;
+    margin: 0;
+    position:absolute;
+}
+.fromtortue2
+{
+    width: 350px;
+}
+
+
+
+
+
+/*sdfsdfsdfsdfdsfsdsfdsdfsdf ОТКУДА ОТКУДА ОТКУДА*/
+
+
+.navbartype li{
+    width: 527px;
+height: 60px;
+    float: left;
+    text-align: center;
+  list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background: #FFFFFF;
+box-shadow: 0px 10px 20px rgba(46, 69, 85, 0.1);
+
+}
+.navbartype a{
+    padding: 18px 0;
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+display: flex;
+margin-left: 30px;
+    color: #2E4555;
+    display: block;
+}
+
+.navbartype li ul{
+    display: none;
+    
+    margin: 0;
+    padding: 0;
+}
+.navbartype li:hover ul{
+    display: block;
+}
+.navbartype li ul li{
+    
+    background-color:#FFFFFF;
+    text-align: center;
+}
+
+.navbartype li ul li a:hover{
+    background-color: rgb(245, 244, 244);
+
+}
+
+.navbartype{
+    height: 52px;
+    padding: 0;
+    margin: 0;
+    position:absolute;
+}
+
+
+
+.otstup{
+    margin-left: 20px;
+}
+
+.otstuptitle{
+    margin-left: 50px;
+}
+
+
+
+/*sdfsdfsdfsdfdsfsdsfdsdfsdf ОТКУДА ОТКУДА ОТКУДА*/
+.wheretortue{
+    margin-left: 395px;
+}
+.datetortue{
+    margin-left:30px;
+}
+.sizeowo{
+    width: 253px;
+height: 60px;
+background: #FFFFFF;
+border-radius: 65px;
+border  : none;
+margin-left: 20px;
+font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+color: #46535d;
+padding-left: 30px;
+padding-right: 20px;
+    
+}
+
+.titleofpeople{
+    margin-left:80px;
+    margin-bottom: 5px;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    
+    /* текст */
+    
+    color: #2E4555;
+    
+}
+
+
+
+.buton-tortue{
+    transition: 0.7s;
+    width: 320px;
+height: 60px;
+background: #E6641B;
+border-radius: 65px;
+font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 33px;
+/* identical to box height */
+border: none;
+margin-left  :420px;
+margin-top:34px;
+/* White */
+
+
+color: #FFFFFF;
+}
+.buton-tortue:hover{
+    transition: 0.7s;
+    cursor: pointer;
+   background-color: #FADF55;
+   border-color:#FADF55;
+   color: #2E4555;
+}
+/*----------------------------------------------------------*/
+/*===========================================================*/
+/*-----------------------------------------------------------*/
+.stats{
+    margin-top: 120px;
+    margin-left: 165px;
+}
+.obertka-for-stats{
+display: flex;
+}
+.firststat{
+    width: 529px;
+height: 497px;
+    background-image:url(img/horsewomen.png) ;
+    border-radius: 65px;
+}
+.secondstat{
+    width: 529px;
+    height: 497px;
+        background-image:url(img/valenokeban.png) ;
+        border-radius: 65px;
+        margin-left: 16px;
+}
+.trirdstat{
+    width: 529px;
+    height: 497px;
+        background-image:url(img/muzhik.png) ;
+        border-radius: 65px;
+        margin-left: 16px;
+}
+.textforstats{
+    width: 449px;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 48px;
+    /* or 100% */
+    padding-top: 313px;
+    padding-left: 40px;
+    padding-bottom: 40px;
+    
+    color: #FFFFFF;
+}
+
+
+/*----------------------------------------------------------*/
+/*===========================================================*/
+/*-----------------------------------------------------------*/
+
+.gallery{
+    margin-top: 120px;
+    margin-left: 150px;
+    display: flex;
+    flex-direction: column;
+    width: 1620PX;
+}
+.zagalovak{
+    font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 65px;
+height: 40px;
+/* текст */
+
+color: #2E4555;
+
+}
+
+.kartinachki{
+    display: flex;
+    margin-top: 59px;
+    
+}
+.firststat{
+    text-decoration: none;
+}
+.miassstat{
+    text-decoration: none;
+}
+.secondstatya{
+    text-decoration: none; 
+}
+.ostalnie{
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    height: 335.53px;
+    margin-left: 20px;
+}
+.minifotki{
+    display: flex;
+    
+}
+.snowy{
+ 
+}
+.snowy:hover{
+  
+
+}
+.dvais{
+    margin-left: 20px;
+}
+.longestimg{
+    margin-top:20px;
+}
+
+
+/*----------------------------------------------------------*/
+/*===========================================================*/
+/*-----------------------------------------------------------*/
+.otzov{
+    margin-left: 150px;
+    margin-top: 120px;
+}
+
+.forreviews{
+    width:1618px;
+    display: flex;
+    flex-direction: column;
+}
+.snipermedicdemo{
+    margin-top: 70px;
+    display: flex;
+}
+.sniper{
+display: flex;
+flex-direction: column;
+width: 526px;
+height: 643px;
+background: #FFFFFF;
+box-shadow: 0px 10px 20px rgba(46, 69, 85, 0.1);
+border-radius: 65px;
+
+}
+.medic{
+    display: flex;
+    flex-direction: column;
+    width: 526px;
+    height: 643px;
+    background: #FFFFFF;
+box-shadow: 0px 10px 20px rgba(46, 69, 85, 0.1);
+border-radius: 65px;
+margin-left: 20px;
+
+}
+.demo{
+    display: flex;
+    flex-direction: column;
+width: 526px;
+height: 643px;
+background: #FFFFFF;
+box-shadow: 0px 10px 20px rgba(46, 69, 85, 0.1);
+border-radius: 65px;
+margin-left: 20px;
+
+
+}
+.scout{
+   margin-top: 63px;
+   margin-left: 165px;
+   width: 197px;
+height: 197px;
+}
+
+.titleofgirls{
+    margin-top: 20px;
+    margin-left: 130px;
+    font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 65px;
+
+/* текст */
+
+color: #2E4555;
+}
+.titleofgirls2{
+    margin-top: 20px;
+    margin-left: 189px;
+    font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 65px;
+
+/* текст */
+
+color: #2E4555;
+}
+.titleofgirls3{
+    margin-top: 20px;
+    margin-left: 176px;
+    font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 65px;
+
+/* текст */
+
+color: #2E4555;
+}
+
+.textofgirls{
+    margin-top: 33px;
+    margin-left: 40px;
+    width: 447px;
+    height: 224px;
+    font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 33px;
+
+/* текст */
+
+color: #2E4555;
+}
+
+
+
+/*----------------------------------------------------------*/
+/*===========================================================*/
+/*-----------------------------------------------------------*/
+
+.finallyblyat{
+    margin-top: 220px;
+    margin-left: 560px;
+   
+}
+.svyaz{
+    width: 805px;
+display: flex;
+flex-direction: column  ;
+}
+.finalroundtext{
+    margin-left: 97px;
+    width: 606px;
+    height: 96px;
+    font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 48px;
+/* or 100% */
+
+text-align: center;
+
+/* текст */
+
+color: #2E4555;
+}
+.finalpolosochka{
+margin-top: 60px;
+display: flex;
+}
+.numbowo{
+    padding-top: 18px;
+    background: #F3F3F3;
+border-radius: 65px;
+
+
+/* Тел. */
+
+
+
+font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 33px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #B8B8B8;
+width: 527px;
+height: 60px;
+border: none;
+
+}
+.finallysasat{
+    margin-left: 15px;
+    width: 254px;
+    height: 60px;
+    background: #E6641B;
+border-radius: 65px;
+transition: 0.7s;
+/* Обратный звонок */
+padding-left:25px;
+padding-top: 15px;
+font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 33px;
+display: flex;
+text-align: center;
+border: none;
+color: #FFFFFF;
+}
+.finallysasat:hover{
+transition: 0.7s;
+    cursor: pointer;
+   background-color: #FADF55;
+   border-color:#FADF55;
+   color: #2E4555;
+}
+
+/*РАДИО АВАВАВААВВААВАВЫВАЫАВЫВАЗФВЫДАЩЗФЦУЛАДЩЗЦФУЛАЩФЦУА*/
+.pidets{
+    width: 40px;
+height: 40px;
+background: #FFFFFF;
+box-shadow: 0px 8px 8px rgba(46, 69, 85, 0.1);
+border-color: #F3F3F3;
+outline-color: #B8B8B8;
+cursor: pointer;
+}
+.pidets:focus:not(:checked){
+    border-color: #B8B8B8;
+  }
+
+.ebanutsa{
+    display: flex;
+    margin-top: 35px;
+    margin-left: 77px;
+}
+
+
+.textradio{
+    
+    margin-left: 30px;
+    font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 33px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+/* текст */
+
+color: #2E4555;
+}
+
+/*РАДИО АВАВАВААВВААВАВЫВАЫАВЫВАЗФВЫДАЩЗФЦУЛАДЩЗЦФУЛАЩФЦУА*/
+
+
+
+.footer{
+    width: 1920px;
+height: 439px;
+background: #2D64A1;
+margin-top: 207px;
+}
+.logotip{
+    margin-top: 40px;
+    margin-left: 150px;
+}
+.container1{
+    margin-top: 150px;
+}
+.container1 li{
+    list-style-type: none;
+}
+.container1 a{
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 70px;
+/* or 292% */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+.footer-menu{
+    
+    display: flex;
+    flex-direction:row; 
+}
+.manu-one{
+    list-style: none;
+    margin-top: 40px;
+    margin-left: 157px;
+    font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 70px;
+color: #FFFFFF;
+}
+.manu-two{
+    list-style: none;
+    margin-top: 40px;
+    margin-left: 121px;
+    font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 70px;
+color: #FFFFFF;
+}
+.footer-text{
+    margin-top: -20px;
+}
+.manu-three{
+    list-style: none;
+    margin-top: 40px;
+    margin-left: 121px;
+    font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 70px;
+color: #FFFFFF;
+}
+.manu-four{
+    list-style: none;
+    margin-top: 40px;
+    margin-left: 121px;
+    display: flex;
+    
+}
+.footer-img{
+    margin-left: 20px;
+}

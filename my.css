@@ -1,0 +1,935 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}    
+body{
+    overflow-x: hidden;
+}
+.nazanie{
+    display: flex;
+    margin: 0 auto;
+    max-width:  1920px;
+    width: 100%;
+
+    
+    border: 1px solid #fff;
+    box-shadow: 0 0 20px #555;
+}
+.nazanie-img{
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.blok1{
+    display: flex;
+  
+}
+.huita{
+height: 55px;
+width: 55px;
+margin-top: 34px;
+margin-bottom: 34px;
+}
+.huina{
+    height: 50px;
+    width: 50px;
+    margin-top: 34px;
+    margin-bottom: 34px;
+margin-right: 150px;
+margin-left: 20px;
+}
+.bykv ul{
+    
+    list-style: none;
+    display: inline-flex;
+ margin-top: 26px;
+ margin-left: 150px;
+ margin-bottom: 26px;
+    justify-content: space-between;
+}
+.namber{
+    color:#3780C3 ;
+    font-style:normal;
+    margin-top: 19.30px;
+    margin-left: 5px;
+}
+.nazanie-text{
+    display: flex;
+    margin-top: 1px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-size: 24px;
+    color: #2E4555;
+    margin-top: 48px;
+    margin-bottom: 48px;
+    margin-right: 95px
+}
+
+.nazanie-imgVO{
+    margin-left: 580px;
+    display: flex;
+    
+}
+
+/*--shapochka*/
+
+.container{
+    display: flex;
+    margin: 0 auto;
+    max-width:  1920px;
+    width: 100%;
+}
+.containerr{
+    display: flex;
+    margin: 0 auto;
+    max-width:  1920px;
+    width: 100%;
+}
+.menu ul{
+    list-style: none;
+    display: flex;
+    
+}
+
+.menu-navig{
+    margin-right: 115px;
+    margin-left: 57px;
+    margin-top: 23px;
+    
+}
+.menu-navig a{
+    text-decoration: none;
+    
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+color: #2E4555;
+}
+
+/*Название маршруты*/
+.poiskovasistem{
+    display: flex;
+    margin: 0 auto;
+    max-width:  1920px;
+    width: 100%;
+}
+.zogolovok-marhryt{
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+color: #2E4555;
+margin-top: 64px;
+margin-left: 150px;
+}
+* {box-sizing: border-box;}
+form {
+  position: relative;
+  width: 300px;
+  margin: 0 auto
+}
+.cnopca{
+    margin-left: -250px;
+    margin-top: 40px;
+}
+input{
+    width: 1347px;
+    height: 70px;
+    margin-top: 202px;
+margin-left: 0px;
+  padding-left: 10px;
+  border-radius: 65px;
+  outline: none;
+  background: #F3F3F3;
+  color: #B8B8B8;
+  border: none;
+}
+.poiskovasistem-button{
+    position: absolute; 
+    margin-top: 118px;
+    
+    width: 253px;
+height: 60px;
+border: none;
+margin-top: 202px;
+margin-left: 150px;
+background: #5EBFC5;
+border-radius: 65px;
+  /*position: absolute; 
+  top: 0;
+  right: 0px;
+  width: 42px;
+  height: 42px;
+  border: none;
+  background: #7BA7AB;
+  border-radius: 0 5px 5px 0;*/
+  cursor: pointer;
+}
+
+
+.poiskovasistem-button{
+    font-family: 'Open Sans';
+    margin-left: 20px;
+    
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+      color: white;
+}
+
+/*дата время и многое другое та та тататататата*/
+.dataandtiki
+{
+    margin-left: 150px;
+}
+.conainerr{
+    display: flex;
+    margin: 0 auto;
+    max-width:  1920px;
+    width: 100%;
+    margin-left: 150px;
+
+}
+.colena{
+    margin-top: 10px;
+    position: relative;
+    width: 391px;
+height: 559px;
+border-radius: 30px;
+display: flex;
+justify-content: center;
+align-items: center;
+background: #FFFFFF;
+box-shadow: 0px 20px 20px rgba(46, 69, 85, 0.1);
+}
+.colena #dycalendar{
+width: 100%;
+padding: 20px;
+}
+#dycalendar table{
+    width: 100%;
+    margin-top: 40px;
+}
+#dycalendar table td{
+    font-weight: 700;
+    color: #2E4555;
+    padding: 10px;
+}
+#dycalendar .dycalendar-header{
+    font-weight: 700;
+    color:#2E4555;
+}
+#dycalendar .dycalendar-target-date
+{
+    color: #F3F3F3;
+    background: #2E4555;
+}
+#wrap
+{ 
+    width: 100%;
+    height: 52px;
+    margin: 0;
+    z-index: 99;
+    position: relative;
+    background-color: #444444;
+}
+
+.waer{
+   
+    margin-top: 20px;
+   
+}
+.navbar{
+    display: flex;
+    height: 52px;
+    padding: 0;
+    margin: 0;
+    position:absolute;
+}
+.qwq{
+    border-radius: 65px;
+}
+.bordur{
+    border-radius: 65px;
+}
+.navbar a{
+    padding: 18px 0;
+    left: 1px solid #bb1313;
+    text-decoration: none;
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+display: flex;
+text-align: left;
+margin-left: 30px;
+    color: #2E4555;
+    display: block;
+}
+.navbar li{
+    width: 390px;
+height: 60px;
+    float: left;
+    text-align: center;
+  list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background: #FFFFFF;
+box-shadow: 0px 10px 20px rgba(46, 69, 85, 0.1);
+border-radius: 65px;
+margin-left: 20px;
+
+}
+/*
+.waer{
+    margin-top: 20px;
+   
+}
+.navbar{
+   
+    height: 52px;
+    padding: 0;
+    margin: 0;
+    position:absolute;
+}
+.navbar li{
+    width: 390px;
+height: 60px;
+    float: left;
+    text-align: center;
+  list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background: #FFFFFF;
+box-shadow: 0px 10px 20px rgba(46, 69, 85, 0.1);
+border-radius: 65px;
+margin-left: 20px;
+}
+.navbar a{
+    padding: 18px 0;
+    left: 1px solid #bb1313;
+    text-decoration: none;
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+display: flex;
+text-align: left;
+margin-left: 30px;
+    color: #2E4555;
+    display: block;
+}*/
+.cio{
+    text-decoration: none;
+    color: #2E4555;
+}
+.navbar li ul{
+    display: none;
+    margin: 0;
+    padding: 0;
+}
+.navbar li:hover ul{
+    display: block;
+}
+.navbar li ul li{
+    
+    background-color:#FFFFFF;
+    text-align: center;
+}
+
+.navbar li ul li a:hover{
+    background-color: rgb(245, 244, 244);
+
+}
+
+/*карточки*/
+.hank{
+    margin-left: 20px;
+    margin-top: 80px;   
+}
+
+.coner{
+    
+    margin-left: 150px;
+    margin-top: 80px;
+}
+.cadrd-left{
+    display: flex;
+    width: 800px;
+    height: 220px;
+    left: 150px;
+    top: 643px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 10px 20px rgba(46, 69, 85, 0.1);
+    border-radius: 65px;
+}
+.cards{
+    margin-top: 100px;
+}
+.cards-one{
+    display:flex;
+}
+.iconka-cad-one{
+    margin-top: 124px;
+    margin-left: -200px;
+    width: 20px;
+    height: 20px;
+}
+.iconka-cad-two{
+    margin-top: 170px;
+    margin-left: -85px;
+    width: 16px;
+height: 19.62px;
+}
+.text-card{
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+color: #2E4555;
+margin-left: 20px;
+}
+.text-card-pod-zz{
+    display: flex;
+    margin-top: 1px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-size: 24px;
+    color: #2E4555;
+    margin-top: 48px;
+    margin-bottom: 48px;
+    margin-right: 95px
+}
+.mini-text-card-one{
+    margin-top: 124px;
+    margin-left: 20px;
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+color: #2E4555;
+}
+.mini-text-card-two{
+    margin-top: 170px;
+    margin-left: 20px;
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+color: #2E4555;
+}
+.card-two{
+    display: flex;
+    width: 800px;
+    height: 220px;
+    left: 150px;
+    top: 643px;
+    margin-left: 20px;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 20px rgba(46, 69, 85, 0.1);
+    border-radius: 65px;
+}
+.zena-card{
+    font-family: 'Open Sans';
+font-style: normal;
+margin-left: 300px;
+font-weight: 700;
+font-size: 32px;
+line-height: 44px;
+color: #2E4555;
+margin-top: 50px;
+}
+.button-one-carad{
+    transition: 0.7s;
+    margin-top: 140px;
+    margin-right: 20px;
+    width: 223px;
+height: 50px;
+background: #E6641B;
+border-radius: 65px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 27px;
+
+color: #FFFFFF;
+cursor: pointer;
+}
+.button-one-carad:hover{
+transition: 0.7s;
+    cursor: pointer;
+   background-color: #FADF55;
+   border-color:#FADF55;
+   color: #2E4555;
+}
+.napolneniye{
+   
+    margin-left: 20px;
+}
+
+.elka{
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+color: #2E4555;
+
+}
+.elkal{
+    font-family: 'Open Sans';
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+    color: #2E4555;
+}
+.music{
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+color: #2E4555;
+}
+.place{
+    margin-top: 6px;
+    width: 100px;
+}
+.qwerty{
+    width: 220px;
+    margin-left: 160px;
+}
+.things{
+  width: 120px;
+    margin-top: 40px;
+}
+.time{
+    width: 100px;
+
+}
+.times{
+    width: 20px;
+    height: 20px;
+}
+.price{
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 44px;
+/* identical to box height */
+
+text-align: right;
+color: #2E4555;
+width: 210px;
+
+
+}
+.pizdec{
+    transition: 0.7s;
+    width: 223px;
+height: 50px;
+margin-top: 5px;
+border: none;
+
+/* 2 */
+
+background: #E6641B;
+border-radius: 65px;
+font-style: normal;
+font-size: 20px;
+
+
+color: #FFFFFF;
+
+}
+.pizdec:hover{
+    transition: 0.7s;
+    cursor: pointer;
+   background-color: #FADF55;
+   border-color:#FADF55;
+   color: #2E4555;
+}
+.nizniya{
+height: 250px;
+display: inline-flex;
+}
+
+
+
+
+
+.footer{
+    width: 1920px;
+height: 439px;
+background: #2D64A1;
+margin-top: 207px;
+}
+.logotip{
+    margin-top: 40px;
+    margin-left: 150px;
+}
+.container1{
+    margin-top: 150px;
+}
+.container1 li{
+    list-style-type: none;
+}
+.container1 a{
+    text-decoration: none;
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 70px;
+/* or 292% */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+.footer-menu{
+    
+    display: flex;
+    flex-direction:row; 
+}
+.manu-one{
+    list-style: none;
+    margin-top: 40px;
+    margin-left: 157px;
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 70px;
+color: #FFFFFF;
+}
+.manu-two{
+    list-style: none;
+    margin-top: 40px;
+    margin-left: 121px;
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 70px;
+color: #FFFFFF;
+}
+.footer-text{
+    margin-top: -20px;
+}
+.manu-three{
+    list-style: none;
+    margin-top: 40px;
+    margin-left: 121px;
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 70px;
+color: #FFFFFF;
+}
+.manu-four{
+    list-style: none;
+    margin-top: 40px;
+    margin-left: 121px;
+    display: flex;
+    
+}
+.footer-img{
+    margin-left: 20px;
+}
+.opiym{
+    margin-top: 0px;
+    border-radius: 0px;
+}
+
+
+/*телефон*/
+@media (max-width: 991px)
+{
+   body{
+    min-width: 100%;
+    width: auto;
+   }
+    .nazanie{
+
+        display: flex;
+        margin: 0 auto;
+        width: auto;
+        width: 100%;
+    
+        
+        border: 1px solid #fff;
+        box-shadow: 0 0 20px #555;
+    }
+    .bykv ul{
+     margin-top: 50px;
+     margin-bottom: 10px;
+     margin-left: -240px;
+        justify-content: space-between;
+    }
+    .nazanie-text{
+        
+    margin-left: 30px;
+        margin-top: 48px;
+        margin-bottom: 48px;
+        margin-right: 95px
+    }
+    .nazanie-imgVO{
+        margin-left: 10px;
+        text-align: center;
+        
+    }
+    .huina{
+        height: 50px;
+        width: 50px;
+        margin-top: 0px;
+        margin-bottom: 34px;
+    margin-right: 150px;
+    margin-left: 10px;
+    }
+    .huita{
+        margin-top: 0px;
+        height: 55px;
+        width: 55px;
+        margin-bottom: 34px;
+        }
+        .zogolovok-marhryt{
+            font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 48px;
+        color: #2E4555;
+        margin-top: 64px;
+        margin-left: 50px;
+        }
+        .cnopca{
+            margin-left: -270px;
+            margin-top: 40px;
+        }
+        input{
+            width: 300px;
+            height: 70px;
+            margin-top: 202px;
+        margin-left: 0px;
+          padding-left: 10px;
+          border-radius: 65px;
+          outline: none;
+          background: #F3F3F3;
+          color: #B8B8B8;
+          border: none;
+        }
+        .dataandtiki
+{
+    margin-left: 30px;
+    display: flex;
+}
+.navbar li{
+    width: 130px;
+height: 60px;
+    float: left;
+    text-align: center;
+  list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background: #FFFFFF;
+box-shadow: 0px 10px 20px rgba(46, 69, 85, 0.1);
+border-radius: 65px;
+margin-top: 10px;
+margin-left: 10px;
+
+}
+.navbar a{
+    text-align: center;
+    padding: 18px 0;
+    left: 1px solid #bb1313;
+    text-decoration: none;
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 33px;
+display: flex;
+text-align: left;
+margin-left: 30px;
+    color: #2E4555;
+    display: block;
+}
+.opiym{
+    margin-top: 0px;
+    border-radius: 0px;
+}
+.containerr{
+    display: block;
+    margin: 0 auto;
+    max-width:  1920px;
+    width: 100%;
+}
+.hank{
+    margin-left: 20px;
+    margin-top: 80px;   
+}
+
+.coner{
+    
+    margin-left: 20px;
+    margin-top: 80px;
+}
+.cadrd-left{
+    display: flex;
+    width: 600px;
+    height: 220px;
+    left: 150px;
+    top: 643px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 10px 20px rgba(46, 69, 85, 0.1);
+    border-radius: 65px;
+}
+.cards{
+    margin-top: 100px;
+}
+.cards-one{
+    display:flex;
+}
+.elkal{
+    font-family: 'Open Sans';
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 33px;
+    color: #2E4555;
+}
+.pizdec{
+    width: 153px;
+height: 50px;
+margin-top: 5px;
+border: none;
+
+/* 2 */
+
+background: #E6641B;
+border-radius: 65px;
+font-style: normal;
+font-size: 20px;
+
+
+color: #FFFFFF;
+
+}
+.pizdec:hover{
+    background-color:#bd5316;
+      transition: 0.2s;
+}
+.price{
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 44px;
+/* identical to box height */
+
+text-align: center;
+color: #2E4555;
+width: 210px;
+
+
+}
+.qwerty{
+    width: 20px;
+    margin-left: 10px;
+}
+
+
+
+.footer{
+    width: 1920px;
+height: 700px;
+background: #2D64A1;
+margin-top: 207px;
+}
+.logotip{
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.container1{
+    margin-top: 150px;
+}
+.container1 li{
+    list-style-type: none;
+}
+.container1 a{
+    text-decoration: none;
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 70px;
+/* or 292% */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+.footer-menu{
+    
+    display: block;
+    flex-direction:row; 
+}
+.manu-one{
+    list-style: none;
+    margin-top: 40px;
+    margin-left: 250px;
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 70px;
+color: #FFFFFF;
+}
+.manu-two{
+    list-style: none;
+    margin-top: 40px;
+    margin-left: 250px;
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 70px;
+color: #FFFFFF;
+}
+.footer-text{
+    margin-top: -20px;
+}
+.manu-three{
+    list-style: none;
+    margin-top: 40px;
+    margin-left: 250px;
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 70px;
+color: #FFFFFF;
+}
+.manu-four{
+    list-style: none;
+    margin-top: 40px;
+    margin-left: 200px;
+    display: flex;
+    
+}
+.footer-img{
+    margin-left: 20px;
+}
+
+}

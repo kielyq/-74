@@ -1,0 +1,331 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}    
+body{
+    overflow-x: hidden;
+}
+.nazanie{
+    display: flex;
+    margin: 0 auto;
+    max-width:  1920px;
+    width: 100%;
+
+    border: 1px solid #fff;
+    box-shadow: 0 0 20px #555;
+}
+.nazanie-img{
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.blok1{
+    display: flex;
+  
+}
+.huita{
+height: 55px;
+width: 55px;
+margin-top: 34px;
+margin-bottom: 34px;
+}
+.huina{
+    height: 50px;
+    width: 50px;
+    margin-top: 34px;
+    margin-bottom: 34px;
+margin-right: 150px;
+margin-left: 20px;
+}
+.bykv ul{
+    
+    list-style: none;
+    display: inline-flex;
+ margin-top: 26px;
+ margin-bottom: 26px;
+    justify-content: space-between;
+}
+.namber{
+    color:#3780C3 ;
+    font-style:normal;
+    margin-top: 19.30px;
+    margin-left: 5px;
+}
+.nazanie-text{
+    display: flex;
+    margin-top: 1px;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-size: 24px;
+    color: #2E4555;
+    margin-top: 48px;
+    margin-bottom: 48px;
+    margin-right: 95px
+}
+
+.nazanie-imgVO{
+    margin-left: 580px;
+    display: flex;
+    
+}
+
+/*--shapochka*/
+
+.container{
+    display: flex;
+    margin: 0 auto;
+    max-width:  1920px;
+    width: 100%;
+
+    
+}
+.menu ul{
+    list-style: none;
+    display: flex;
+    
+}
+.menu{
+    margin-left: 70px;
+    margin-top: 23px;
+    margin-right: 150px;
+}
+.menu-navig{
+   margin-left: 130px;
+   
+   
+    
+}
+.menu-navig a{
+    text-decoration: none;
+    
+    font-family: 'Raleway', sans-serif;
+font-weight: 700;
+font-size: 24px;
+color: #2E4555;
+}
+
+/*названия для всякой */
+
+.statyi{
+    margin-top: 90px;
+    margin-left: 150px;
+}
+.snipersinterviews{
+    display: flex;
+    flex-direction: column;
+}
+.snipertitle{
+    font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 70px;
+/* identical to box height, or 146% */
+
+color: #2E4555;
+}
+
+.scoutsnipermedic{
+    display: flex;
+    margin-top: 60px;
+}
+.spedbul{
+    width: 529px;
+    height: 497px;
+}
+.sniper{
+    transition: 0.8s;
+    width: 529px;
+    height: 497px;
+    border-radius: 65px;
+    background-image: url(imgforstatsall/Rectangle\ 8.png);
+}
+.sniper:hover{
+    transition: 0.8s;
+    cursor: pointer;
+    box-shadow:0 0 30px#0a5b99;
+}
+.scout{
+    transition: 0.8s;
+    margin-left: 16px;
+    width: 529px;
+    height: 497px;
+    border-radius: 65px;
+    background-image: url(imgforstatsall/Rectangle\ 7.png);
+}
+.scout:hover{
+    transition: 0.8s;
+    cursor: pointer;
+    box-shadow:0 0 30px#0a5b99;
+}
+.medic{
+    transition: 0.8s;
+    margin-left: 16px;
+    width: 529px;
+    height: 497px;
+    border-radius: 65px;
+    background-image: url(imgforstatsall/Rectangle\ 9.png);
+}
+.medic:hover{
+    transition: 0.8s;
+    cursor: pointer;
+    box-shadow:0 0 20px#0a5b99;
+}
+.titleofsniper{
+    width: 379px;
+    padding-top:313px ;
+    margin-left: 40px;
+    font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 48px;
+/* or 100% */
+
+color: #FFFFFF;
+}
+.titleofscout{
+    width: 449px;
+    padding-top:313px ;
+    margin-left: 40px;
+    font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 48px;
+/* or 100% */
+
+color: #FFFFFF;
+}
+.titleofmedic{
+    width: 429px;
+    height: 96px;
+    padding-top:361px ;
+    margin-left: 40px;
+    font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 48px;
+/* or 100% */
+
+color: #FFFFFF;
+}
+
+
+
+
+.statya1{
+text-decoration: none;
+}
+.statya2{
+    text-decoration: none;
+}
+.statya3{
+text-decoration: none;
+}
+
+
+
+
+
+
+
+
+/*GJLDFK*/
+
+
+
+
+
+
+
+
+
+
+.footer{
+    width: 1920px;
+height: 439px;
+background: #2D64A1;
+margin-top: 207px;
+}
+.logotip{
+    margin-top: 40px;
+    margin-left: 150px;
+}
+.container1{
+    margin-top: 150px;
+}
+.container1 li{
+    list-style-type: none;
+}
+.container1 a{
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 70px;
+/* or 292% */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+.footer-menu{
+    
+    display: flex;
+    flex-direction:row; 
+}
+.manu-one{
+    list-style: none;
+    margin-top: 40px;
+    margin-left: 157px;
+    font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 70px;
+color: #FFFFFF;
+}
+.manu-two{
+    list-style: none;
+    margin-top: 40px;
+    margin-left: 121px;
+    font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 70px;
+color: #FFFFFF;
+}
+.footer-text{
+    margin-top: -20px;
+}
+.manu-three{
+    list-style: none;
+    margin-top: 40px;
+    margin-left: 121px;
+    font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 70px;
+color: #FFFFFF;
+}
+.manu-four{
+    list-style: none;
+    margin-top: 40px;
+    margin-left: 121px;
+    display: flex;
+    
+}
+.footer-img{
+    margin-left: 20px;
+}
+/*AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAдаптив*/
+/*AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAдаптив*/
+
+@media(max-width:412px)
+{
+}
